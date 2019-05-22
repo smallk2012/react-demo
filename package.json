@@ -47,7 +47,6 @@
     "react-dev-utils": "^9.0.1",
     "react-dom": "^16.8.6",
     "resolve": "1.10.0",
-    "sass-loader": "7.1.0",
     "semver": "6.0.0",
     "style-loader": "0.23.1",
     "terser-webpack-plugin": "1.2.3",
@@ -127,5 +126,9 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0"
   }
 }
